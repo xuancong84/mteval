@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mteval>
+<tstset setid="set" srclang="en" trglang="en" refid="reference_1" sysid="mysystem">
+<doc docid="document1">
+<seg id="1"> 受 欢 迎 的 YouTuber 会 用 隐 藏 的 垃 圾 食 品 广 告 影 响 我 们 的 孩 子 吗 ？</seg>
+<seg id="2"> 研 究 表 明 ， 儿 童 在 八 、 九 岁 之 前 都 无 法 区 分 广 告 和 卡 通 。</seg>
+<seg id="3"> 对 于 餐 饮 店 来 说 ， COVID-19 是 一 个 警 钟 。 下 面 是 他 们 可 以 做 的 七 个 改 变</seg>
+<seg id="4"> 在 大 流 行 前 的 餐 饮 业 中 ， 臃 肿 的 餐 厅 场 景 和 风 险 重 重 的 商 业 模 式 都 出 现 了 问 题 。</seg>
+</doc>
+</tstset>
+</mteval>

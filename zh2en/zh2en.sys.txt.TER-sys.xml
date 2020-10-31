@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mteval>
+<tstset setid="set" srclang="zh" trglang="en" refid="reference_1" sysid="mysystem">
+<doc docid="document1">
+<seg id="1"> The new crown PCR test must be carried out at the airport upon arrival in Singapore, which is not applicable to ATP holders under the age of 12.</seg>
+<seg id="2"> Children under the age of 12 who travel with their parents or guardians and are certified disabled or otherwise are not suitable for mobile devices.</seg>
+<seg id="3"> Holders of Singapore citizens, permanent residents of Singapore and Long-Term Pass holders of Singapore do not have to apply for air travel permits from Chinese mainland to Singapore.</seg>
+<seg id="4"> However, holders of long-term pass (LTP) still need to apply for entry approval from Singapore ICA before going to Singapore.</seg>
+</doc>
+</tstset>
+</mteval>

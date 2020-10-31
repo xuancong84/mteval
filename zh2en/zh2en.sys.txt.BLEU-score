@@ -1,0 +1,26 @@
+MT evaluation scorer began on 2020 Oct 31 at 15:36:15
+command line:  /home/ubuntu/bin/mteval-v13a.pl -s zh2en/zh2en.sys.txt.TER-src.xml -r zh2en/zh2en.sys.txt.TER-ref.xml -t zh2en/zh2en.sys.txt.TER-sys.xml
+  Evaluation of zh-to-en translation using:
+    src set "set" (1 docs, 4 segs)
+    ref set "set" (1 refs)
+    tst set "set" (1 systems)
+
+NIST score = 5.1776  BLEU score = 0.4899 for system "mysystem"
+
+# ------------------------------------------------------------------------
+
+Individual N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  4.7276   0.3693   0.0391   0.0203   0.0212   0.0111   0.0000   0.0000   0.0000  "mysystem"
+
+ BLEU:  0.8182   0.5943   0.4314   0.3061   0.2553   0.2111   0.1744   0.1585   0.1410  "mysystem"
+
+# ------------------------------------------------------------------------
+Cumulative N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  4.7276   5.0969   5.1360   5.1563   5.1776   5.1886   5.1886   5.1886   5.1886  "mysystem"
+
+ BLEU:  0.7962   0.6786   0.5782   0.4899   0.4277   0.3785   0.3375   0.3060   0.2799  "mysystem"
+MT evaluation scorer ended on 2020 Oct 31 at 15:36:15
